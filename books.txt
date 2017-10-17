@@ -1,0 +1,10 @@
+9090
+physics		adnan_khan	1	12
+9091
+science		ajmal_khan	3	54
+9067
+history		imran_khan	4	55
+9070
+graphic		rahul_kumar	7	86
+8090
+Comuter		naved_khan	9	45
